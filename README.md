@@ -1,7 +1,7 @@
 <p align="center">
   <img width="128" align="center" src="https://user-images.githubusercontent.com/67554762/171267199-45341351-5968-4f68-802d-2e80136ea4ab.png">
 </p>
-<h1 align="center">Gera Chess Library (NetStandard 2.1 version)</h1>
+<h1 align="center">Gera Chess Library</h1>
 <div>
 	<p align="center">
 	  Chess logic made with C# and &hearts; by Geras1mleo
