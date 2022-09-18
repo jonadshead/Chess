@@ -4,12 +4,10 @@
 <h1 align="center">Gera Chess Library</h1>
 <div>
 	<p align="center">
-	  Chess logic made with C# and &hearts; by Geras1mleo
+	  Chess logic made with C# and &hearts; by Geras1mleo (altered to compile in netstandard 2.1 by Jonathan Adshead)
 	</p>
 </div>
 
-
-<b>Browse in <a href="https://www.nuget.org/packages/Gera.Chess/"><img height="15px" src="https://www.nuget.org/favicon.ico"> NuGet</a></b>
 
 ## Chess lib includes:
 
@@ -229,12 +227,6 @@ board.Clear();
 board.Resign(PieceColor.Black);
 board.EndGame... // => { EndgameType = Resigned, WonSide = White }
 ```
-
-## [Unit Tests](/ChessUnitTests/UnitTests.cs)
-Here you can see all the tests that have been used to test and improve chess library
-
-## [Benchmarks](/ChessBenchmarks/Benchmarks.cs)
-Here you can see the evolution of performance of chess library
 
 ## Like the project?
 
